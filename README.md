@@ -1,4 +1,7 @@
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChloeJS%2FCholeJS&count_bg=%23EEECE7&title_bg=%236FDFE9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 # 😉JAVA SPRING PROJECT
 
 ## 호텔예약 서비스 "둘이놀자" Backend
@@ -122,7 +125,6 @@
 | 김형욱 |   [https://github.com/rlaguddnr2340](https://github.com/rlaguddnr2340)   |    백엔드(예약 관리)   |
 | 이원표 |  [https://github.com/wonpyo0302/portfolio](https://github.com/wonpyo0302/portfolio)|    백엔드(메인페이지, 관리자)   |
 | 정인아 |  [https://github.com/JIA0001](https://github.com/JIA0001)  |  벡엔드(회원 관리) |
-
 
 
 
