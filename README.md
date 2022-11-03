@@ -59,8 +59,10 @@
 
 ### 6. Q&A 게시판
 
-    - 슬라이드 기능
-    - 게시글 옵션 기능(관리자)
+    - 목록 페이지 기능
+    - 등록/상세 화면 기능
+    - 목록 페이지 (관리자) - 다중검색조건(카테고리별 조회 기능)
+    - 답변 업데이트 (관리자)
     
     
 ### 7. 마이페이지- 호스트
@@ -122,78 +124,5 @@
 | 정인아 |  [https://github.com/JIA0001](https://github.com/JIA0001)  |  벡엔드(회원 관리) |
 
 
-**BacK End** : https://github.com/blingbc9/project_hotel
 
 
-
-
-<br>
-
-
-
-
-
-<br>
-
-<h3 align="center"><b>📂 Project Directory Structure 📁</b></h3>
-
-<pre>
-<code>
-/com.sparta.Webmini2
-  └──/controller
-     ├── /BackController.java
-     ├── /CommentController.java
-     ├── /FrontController.java
-     ├── /PostController.java
-     └── /UserController.java
-  └──/dto
-     ├── /BackRequestDto.java
-     ├── /BackResponseDto.java
-     ├── /CommentRequestDto.java
-     ├── /CommentResponseDto.java
-     ├── /FrontRequestDto.java
-     ├── /FrontResponseDto.java
-     ├── /PostRequestDto.java
-     ├── /PostResponseDto.java
-     ├── /ResponseDto.java
-     └── /SignupRequestDto.java
-  └──/model
-     ├── /Back.java
-     ├── /Comment.java
-     ├── /Front.java
-     ├── /Post.java
-     ├── /Timestamped.java
-     └── /User.java
-  └──/repository
-     ├── /BackRepository.java
-     ├── /CommentRepository.java
-     ├── /FrontRepository.java
-     ├── /PostRepository.java
-     └── /UserRepository.java
-  └──/security
-     └── /filter
-         ├── /FormLoginFilter.java
-         └── /JwtAuthFilter.java
-     └── /jwt
-         ├── /HeaderTokenExtractor.java
-         ├── /JwtDecoder.java
-         ├── /JwtPreProcessingToken.java
-         └── /JwtTokenUtils.java
-     └── /provider
-         ├── /AuthFailureHandler.java
-         ├── /FilterSkipMatcher.java
-         ├── /FormLoginSuccessHandler.java
-         ├── /UserDetailsImpl.java
-         ├── /UserDetailsServiceImpl.java
-         └── /WebSecurityConfig.java
-  └──/service
-     ├── /BackService.java
-     ├── /CommentService.java
-     ├── /FrontService.java
-     ├── /PostService.java
-     └── /UserService.java
-  └──/validator
-     └── /UserInfoValidator.java
-  └──/Mini22Application.java
-</code>
-</pre>
