@@ -4,7 +4,7 @@
 #### 프로젝트git : https://github.com/ChloeJS/project_hotel
 <br><br>
 
-# 😉JAVA SPRING PROJECT
+# 😉 JAVA/SPRING TEAM PROJECT
 
 ## 📌 호텔예약 서비스 "둘이놀자" Backend
 
