@@ -124,7 +124,7 @@
 |  이름  |                          깃허브 주소                           |       포지션       |
 | :----: | :------------------------------------------------------------: | :----------------: |
 | 김빛찬 |      [https://github.com/blingbc9](https://github.com/blingbc9)      |    백엔드(마이페이지-호스트 게스트)   |
-| 김지수 | [https://github.com/ChloeJS](https://github.com/ChloeJS)   |    백엔드(고객센터(게스트,호스트)   |
+| 김지수 | [https://github.com/ChloeJS](https://github.com/ChloeJS)   |    백엔드(고객센터-게스트,호스트)   |
 | 김형욱 |   [https://github.com/rlaguddnr2340](https://github.com/rlaguddnr2340)   |    백엔드(예약 관리)   |
 | 이원표 |  [https://github.com/wonpyo0302/portfolio](https://github.com/wonpyo0302/portfolio)|    백엔드(메인페이지, 관리자)   |
 | 정인아 |  [https://github.com/JIA0001](https://github.com/JIA0001)  |  벡엔드(회원 관리) |
