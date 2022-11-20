@@ -19,7 +19,9 @@
 ## 🗓 진행기간
 
 - 2022.08.01(화) ~ 2022.08.31(수)
-  <br>
+
+
+<br>
 
 ## ⚙ 주요 기능
 
@@ -28,6 +30,7 @@
 #### WIREFRAME 👉 [FIGMA](https://www.figma.com/file/jQ2dRDz6SEE60P1f719b1V/%5B%EB%91%98%EC%9D%B4%EB%86%80%EA%B9%8C%5D?node-id=0%3A1) (LINK)
 
 
+<br>
 ### 1. 회원가입 / 로그인
     - 회원가입 
     - 임시비밀번호 생성
